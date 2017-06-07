@@ -1,0 +1,19 @@
+{
+  "name": "respomsiveWeb",
+  "version": "1.0.0",
+  "description": "<!--<section class = \"ad\">-->\r         <!--<div id=\"owl-demo\" class = \"owl-carousel owl-theme\">-->\r         <!--<div class = \"item\">-->\r             <!--<img src=\"src/img/ad001.png\"-->\r                  <!--srcset=\"src/img/ad001-m.png 800w , src/img/ad001.png 480w , src/img/ad001-l.png 1600w\"-->\r                  <!--sizes=\"100vw\"-->\r             <!--&gt;-->\r         <!--</div>-->",
+  "main": "test.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
